@@ -1,8 +1,0 @@
-University Institute of Technology, Burdwan, India
-B.E. in Electronics and Communication and Engineering, CGPA: 8.51	2018 - 2022
-
-
-animeshuit1998
-jJriOysft5DNUeRo
-
-mongodb+srv://animeshuit1998:<db_password>@cluster0.bzzip.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
